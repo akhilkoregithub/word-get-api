@@ -1,0 +1,1 @@
+web gunicorn word_test.wsgi:application --log-file - 
